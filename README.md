@@ -15,11 +15,11 @@ TODO:
 - [x] Visualize amount of cards owned per set.
 - [x] Highlight owned cards in set.
 - [x] Persist collection visualisation with scryfall's filters.
-- [] Visualize percentage owned total and per set.
-- [] Progress meter.
-- [] Toggle sets for exclusion / Remove non-paper sets.
-- [] Visualizer for partial searched cards.
-- [] Rewrite moxfield's CSV format to standard CSV format.
-- [] Distinct between Foil and non-foil.
-- [] CardMarket support.
-- [] Chrome extension support.
+- [ ] Visualize percentage owned total and per set.
+- [ ] Progress meter.
+- [ ] Toggle sets for exclusion / Remove non-paper sets.
+- [ ] Visualizer for partial searched cards.
+- [ ] Rewrite moxfield's CSV format to standard CSV format.
+- [ ] Distinct between Foil and non-foil.
+- [ ] CardMarket support.
+- [ ] Chrome extension support.
